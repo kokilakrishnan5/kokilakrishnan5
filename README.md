@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm kokila krishnan
 
-<!--
-**kokilakrishnan5/kokilakrishnan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
 
-Here are some ideas to get you started:
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🔥 Currently working on Generative AI & AI Agents
+- 📚 Learning: LLMs, RAG, LangChain, OpenAI APIs
+- 💡 Interested in building real-time AI applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Tech Stack
+
+### 👩‍💻 Languages
+
+- Python 🐍
+- JavaScript
+
+### 🤖 AI / ML
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- NLP
+
+### 🧰 Tools & Frameworks
+
+- LangChain
+- OpenAI
+- FastAPI
+- Streamlit
+- Git & GitHub
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: your-www.linkedin.com/in/kokila-krishnan-863065364
+- mail: kokilakrishnan56@gmail.com
